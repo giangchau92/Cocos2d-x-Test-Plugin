@@ -1,0 +1,15 @@
+//
+//  cocos2d-prefix.pch
+//  Cocos2dxTest
+//
+//  Created by Chau Giang on 5/25/15.
+//
+//
+
+#ifndef Cocos2dxTest_cocos2d_prefix_pch
+#define Cocos2dxTest_cocos2d_prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
